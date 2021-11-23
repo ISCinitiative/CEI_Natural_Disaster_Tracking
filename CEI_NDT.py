@@ -65,19 +65,19 @@ def how_to_use():
           EXAMPLE
           Please write the parameters completely and accurately. It is case sensitive.
           
-          python SCRIPT.py -h (for help)
-          python SCRIPT.py -R (for latest cyclone report)
-          python SCRIPT.py -E (for alternative earthquake portal)
-          python SCRIPT.py --earthquakealternative (for alternative earthquake portal)
-          python SCRIPT.py --reportcyclone (for latest cyclone report)
-          python SCRIPT.py -e 10 (for earthquake)
-          python SCRIPT.py --earthquake 10 (for earthquake)
-          python SCRIPT.py -l thunder 25 (for thunder local)
-          python SCRIPT.py --localalert thunder 25 (for thunder local)
-          python SCRIPT.py -C 31.425 44.123 (for earthquake checking)
-          python SCRIPT.py --checkearthquake 31.425 44.123 (for tearthquake checking)
-          python SCRIPT.py -U SPAIN (for latest alert from countries)
-          python SCRIPT.py --lastalert SPAIN (for latest alert from countries)
+          python CEI_NDT.py -h (for help)
+          python CEI_NDT.py -R (for latest cyclone report)
+          python CEI_NDT.py -E (for alternative earthquake portal)
+          python CEI_NDT.py --earthquakealternative (for alternative earthquake portal)
+          python CEI_NDT.py --reportcyclone (for latest cyclone report)
+          python CEI_NDT.py -e 10 (for earthquake)
+          python CEI_NDT.py --earthquake 10 (for earthquake)
+          python CEI_NDT.py -l thunder 25 (for thunder local)
+          python CEI_NDT.py --localalert thunder 25 (for thunder local)
+          python CEI_NDT.py -C 31.425 44.123 (for earthquake checking)
+          python CEI_NDT.py --checkearthquake 31.425 44.123 (for tearthquake checking)
+          python CEI_NDT.py -U SPAIN (for latest alert from countries)
+          python CEI_NDT.py --lastalert SPAIN (for latest alert from countries)
           
           LOCAL ALERT TYPES
           thunder
